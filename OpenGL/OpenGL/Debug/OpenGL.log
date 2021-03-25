@@ -1,0 +1,5 @@
+﻿  source.cpp
+C:\Users\kai\source\repos\cpp_games\OpenGL\OpenGL\source.cpp(26,46): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\kai\source\repos\cpp_games\OpenGL\OpenGL\source.cpp(26,28): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\kai\source\repos\cpp_games\OpenGL\OpenGL\source.cpp(36,34): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  OpenGL.vcxproj -> C:\Users\kai\source\repos\cpp_games\OpenGL\Debug\OpenGL.exe
