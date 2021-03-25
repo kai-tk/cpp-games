@@ -1,0 +1,3 @@
+﻿  ソース.cpp
+C:\Users\kai\source\repos\tetris\tetris\ソース.cpp(299,13): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  tetris.vcxproj -> C:\Users\kai\source\repos\tetris\Debug\tetris.exe
